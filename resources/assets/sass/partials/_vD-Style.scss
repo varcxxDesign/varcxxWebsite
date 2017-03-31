@@ -1,0 +1,19 @@
+body { background-color: black; 
+	background-image: url(/images/red_bk.jpg);
+	background-repeat: no-repeat;
+	background-position: center center; }
+
+p, h1, h1 { color: white; }
+
+.bk1 {
+	background-image: url(images/red_bk.jpg);
+	background-repeat: repeat-x;
+	background-position: center 147;
+}
+
+.bk2 {
+	background-image: url(images/trans_bk1.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
